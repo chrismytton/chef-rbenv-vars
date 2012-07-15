@@ -1,4 +1,4 @@
 description 'Install rbenv-vars plugin'
-version '0.1.0'
+version '0.1.1'
 
 depends 'rbenv'
