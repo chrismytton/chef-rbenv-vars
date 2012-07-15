@@ -1,4 +1,4 @@
-# chef-rbenv_vars
+# chef-rbenv-vars
 
 ## Description
 
