@@ -12,3 +12,10 @@ git "#{node['rbenv']['root_path']}/plugins/rbenv-vars" do
     action :sync
   end
 end
+
+template "#{node['rbenv']['root_path']}/vars" do
+  source "vars.erb"
+  owner "root"
+  group "root"
+  mode 0644
+end
