@@ -18,4 +18,5 @@ template "#{node['rbenv']['root_path']}/vars" do
   owner "root"
   group "root"
   mode 0644
+  action :create_if_missing
 end
