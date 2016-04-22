@@ -1,6 +1,6 @@
 #!/usr/bin/env rake
 
-@cookbook = "rbenv"
+@cookbook = "ruby_rbenv"
 
 desc "Runs foodcritc linter"
 task :foodcritic do

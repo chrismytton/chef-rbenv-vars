@@ -3,7 +3,7 @@
 ## Description
 
 Installs the [rbenv-vars](https://github.com/sstephenson/rbenv-vars)
-plugin for the rbenv::system install.
+plugin for the ruby_rbenv::system install.
 
 ## Usage
 
